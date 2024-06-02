@@ -1,0 +1,91 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project configuration files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific files (Visual Studio Code)
+.vscode/*
+
+# User-specific files (Rider)
+.idea/
+*.sln.iml
+*.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# npm packages
+node_modules/
+jspm_packages/
+
+# NuGet
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Microsoft Azure Web App publish settings. Sensitive information included
+# in these settings can be included in .gitignore to prevent information leaks.
+# *.PublishSettings
+
+# Publish Web Output
+wwwroot/
+*.publish.xml
+*.publishproj
+
+# Local History for Visual Studio
+.vs/
+.history/
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# Rider log folder
+.rider/
+
+# Rider caches
+.idea/
+
+# Rider temporary files
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Yarn Integrity file
+.yarn-integrity
